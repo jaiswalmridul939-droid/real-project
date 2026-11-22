@@ -1,0 +1,17 @@
+{
+  "name": "Claim What's Yours",
+  "short_name": "Claim Yours",
+  "description": "Farmer scheme support for Maharashtra",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f6f1",
+  "theme_color": "#103c2b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
